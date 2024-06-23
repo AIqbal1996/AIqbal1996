@@ -8,8 +8,7 @@
 * Generative AI
 * Python
 
-### Follow me on YouTube: 
-<img width=20% src="https://user-images.githubusercontent.com/34603575/174398690-e1faedc7-89c2-44cf-8bda-a0c74a4e042c.png"></img>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
