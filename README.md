@@ -40,7 +40,7 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/c17hawke
+[linkedin]: [https://www.linkedin.com/in/c17hawke](https://www.linkedin.com/in/arif-iqbal-b08980173/)
 [twitter]: https://www.twitter.com/c17hawke
 [Instagram]: https://www.instagram.com/c17hawke
 [Pexels]: https://www.pexels.com/@c17hawke
